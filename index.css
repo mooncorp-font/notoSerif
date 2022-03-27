@@ -9,28 +9,40 @@ http://scripts.sil.org/OFL
 	font-family: 'NotoSerif';
 	font-weight: 700;
 	font-display: swap;
-	src: url('NotoSerif-Bold.woff2') format('woff2');
+	src: url('NotoSerif-Bold.eot');
+  	src: url('NotoSerif-Bold.eot?#iefix') format('embedded-opentype'),
+	  url('NotoSerif-Bold.woff2') format('woff2'),
+	  url('NotoSerif-Bold.woff') format('woff');
 }
 
 @font-face {
 	font-family: 'NotoSerif';
 	font-weight: 400;
 	font-display: swap;
-	src: url('NotoSerif-Regular.woff2') format('woff2');
+	src: url('NotoSerif-Regular.eot');
+  	src: url('NotoSerif-Regular.eot?#iefix') format('embedded-opentype'),
+	  url('NotoSerif-Regular.woff2') format('woff2'),
+	  url('NotoSerif-Regular.woff') format('woff');
 }
 
 @font-face {
 	font-family: 'NotoSerif';
 	font-weight: 300;
 	font-display: swap;
-	src: url('NotoSerif-Light.woff2') format('woff2');
+	src: url('NotoSerif-Light.eot');
+  	src: url('NotoSerif-Light.eot?#iefix') format('embedded-opentype'),
+	  url('NotoSerif-Light.woff2') format('woff2'),
+	  url('NotoSerif-Light.woff') format('woff');
 }
 
 @font-face {
 	font-family: 'NotoSerif';
 	font-weight: 100;
 	font-display: swap;
-	src: url('NotoSerif-Light.woff2') format('woff2');
+	src: url('NotoSerif-Light.eot');
+  	src: url('NotoSerif-Light.eot?#iefix') format('embedded-opentype'),
+	  url('NotoSerif-Light.woff2') format('woff2'),
+	  url('NotoSerif-Light.woff') format('woff');
 }
 
 /***************** 영문 *****************/
@@ -38,7 +50,10 @@ http://scripts.sil.org/OFL
 	font-family: 'NotoSerif-EN';
 	font-weight: 700;
 	font-display: swap;
-	src: url('NotoSerif-Bold.woff2') format('woff2');
+	src: url('NotoSerif-Bold.eot');
+  	src: url('NotoSerif-Bold.eot?#iefix') format('embedded-opentype'),
+	  url('NotoSerif-Bold.woff2') format('woff2'),
+	  url('NotoSerif-Bold.woff') format('woff');
 	unicode-range: U+0041-005A, U+0061-007A;
 }
 
@@ -46,7 +61,10 @@ http://scripts.sil.org/OFL
 	font-family: 'NotoSerif-EN';
 	font-weight: 400;
 	font-display: swap;
-	src: url('NotoSerif-Regular.woff2') format('woff2');
+	src: url('NotoSerif-Regular.eot');
+  	src: url('NotoSerif-Regular.eot?#iefix') format('embedded-opentype'),
+	  url('NotoSerif-Regular.woff2') format('woff2'),
+	  url('NotoSerif-Regular.woff') format('woff');
 	unicode-range: U+0041-005A, U+0061-007A;
 }
 
@@ -54,7 +72,10 @@ http://scripts.sil.org/OFL
 	font-family: 'NotoSerif-EN';
 	font-weight: 300;
 	font-display: swap;
-	src: url('NotoSerif-Light.woff2') format('woff2');
+	src: url('NotoSerif-Light.eot');
+  	src: url('NotoSerif-Light.eot?#iefix') format('embedded-opentype'),
+	  url('NotoSerif-Light.woff2') format('woff2'),
+	  url('NotoSerif-Light.woff') format('woff');
 	unicode-range: U+0041-005A, U+0061-007A;
 }
 
@@ -62,7 +83,10 @@ http://scripts.sil.org/OFL
 	font-family: 'NotoSerif-EN';
 	font-weight: 100;
 	font-display: swap;
-	src: url('NotoSerif-Light.woff2') format('woff2');
+	src: url('NotoSerif-Light.eot');
+  	src: url('NotoSerif-Light.eot?#iefix') format('embedded-opentype'),
+	  url('NotoSerif-Light.woff2') format('woff2'),
+	  url('NotoSerif-Light.woff') format('woff');
 	unicode-range: U+0041-005A, U+0061-007A;
 }
 
@@ -71,7 +95,10 @@ http://scripts.sil.org/OFL
 	font-family: 'NotoSerif-NUM';
 	font-weight: 700;
 	font-display: swap;
-	src: url('NotoSerif-Bold.woff2') format('woff2');
+	src: url('NotoSerif-Bold.eot');
+  	src: url('NotoSerif-Bold.eot?#iefix') format('embedded-opentype'),
+	  url('NotoSerif-Bold.woff2') format('woff2'),
+	  url('NotoSerif-Bold.woff') format('woff');
 	unicode-range: U+0030-0039;
 }
 
@@ -79,7 +106,10 @@ http://scripts.sil.org/OFL
 	font-family: 'NotoSerif-NUM';
 	font-weight: 400;
 	font-display: swap;
-	src: url('NotoSerif-Regular.woff2') format('woff2');
+	src: url('NotoSerif-Regular.eot');
+  	src: url('NotoSerif-Regular.eot?#iefix') format('embedded-opentype'),
+	  url('NotoSerif-Regular.woff2') format('woff2'),
+	  url('NotoSerif-Regular.woff') format('woff');
 	unicode-range: U+0030-0039;
 }
 
@@ -87,7 +117,10 @@ http://scripts.sil.org/OFL
 	font-family: 'NotoSerif-NUM';
 	font-weight: 300;
 	font-display: swap;
-	src: url('NotoSerif-Light.woff2') format('woff2');
+	src: url('NotoSerif-Light.eot');
+  	src: url('NotoSerif-Light.eot?#iefix') format('embedded-opentype'),
+	  url('NotoSerif-Light.woff2') format('woff2'),
+	  url('NotoSerif-Light.woff') format('woff');
 	unicode-range: U+0030-0039;
 }
 
@@ -95,7 +128,10 @@ http://scripts.sil.org/OFL
 	font-family: 'NotoSerif-NUM';
 	font-weight: 100;
 	font-display: swap;
-	src: url('NotoSerif-Light.woff2') format('woff2');
+	src: url('NotoSerif-Light.eot');
+  	src: url('NotoSerif-Light.eot?#iefix') format('embedded-opentype'),
+	  url('NotoSerif-Light.woff2') format('woff2'),
+	  url('NotoSerif-Light.woff') format('woff');
 	unicode-range: U+0030-0039;
 }
 
@@ -104,7 +140,10 @@ http://scripts.sil.org/OFL
 	font-family: 'NotoSerif-CHAR';
 	font-weight: 700;
 	font-display: swap;
-	src: url('NotoSerif-Bold.woff2') format('woff2');
+	src: url('NotoSerif-Bold.eot');
+  	src: url('NotoSerif-Bold.eot?#iefix') format('embedded-opentype'),
+	  url('NotoSerif-Bold.woff2') format('woff2'),
+	  url('NotoSerif-Bold.woff') format('woff');
 	unicode-range: U+0020-002F, U+003A-0040, U+005B-0060, U+007B-007E;
 }
 
@@ -112,7 +151,10 @@ http://scripts.sil.org/OFL
 	font-family: 'NotoSerif-CHAR';
 	font-weight: 400;
 	font-display: swap;
-	src: url('NotoSerif-Regular.woff2') format('woff2');
+	src: url('NotoSerif-Regular.eot');
+  	src: url('NotoSerif-Regular.eot?#iefix') format('embedded-opentype'),
+	  url('NotoSerif-Regular.woff2') format('woff2'),
+	  url('NotoSerif-Regular.woff') format('woff');
 	unicode-range: U+0020-002F, U+003A-0040, U+005B-0060, U+007B-007E;
 }
 
@@ -120,7 +162,10 @@ http://scripts.sil.org/OFL
 	font-family: 'NotoSerif-CHAR';
 	font-weight: 300;
 	font-display: swap;
-	src: url('NotoSerif-Light.woff2') format('woff2');
+	src: url('NotoSerif-Light.eot');
+  	src: url('NotoSerif-Light.eot?#iefix') format('embedded-opentype'),
+	  url('NotoSerif-Light.woff2') format('woff2'),
+	  url('NotoSerif-Light.woff') format('woff');
 	unicode-range: U+0020-002F, U+003A-0040, U+005B-0060, U+007B-007E;
 }
 
@@ -128,6 +173,9 @@ http://scripts.sil.org/OFL
 	font-family: 'NotoSerif-CHAR';
 	font-weight: 100;
 	font-display: swap;
-	src: url('NotoSerif-Light.woff2') format('woff2');
+	src: url('NotoSerif-Light.eot');
+  	src: url('NotoSerif-Light.eot?#iefix') format('embedded-opentype'),
+	  url('NotoSerif-Light.woff2') format('woff2'),
+	  url('NotoSerif-Light.woff') format('woff');
 	unicode-range: U+0020-002F, U+003A-0040, U+005B-0060, U+007B-007E;
 }
